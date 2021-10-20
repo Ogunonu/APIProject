@@ -7,7 +7,7 @@ public class MyBotMain {
 		
 		bot.setVerbose(true);
 		
-		bot.connect("irc.freenode.net");
+		bot.connect("irc.libera.chat");
 		
 		bot.joinChannel("#osmang");
 		
